@@ -203,6 +203,19 @@ img {
     width: calc((100% - 72px) / 4);
     display: block;
 }
+.advicon-div {
+    display: flex;
+    gap: 24px;
+    padding: 24px 100px;
+    width: 264px;
+    height: 112px;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    background-color: #f4f4fd;
+    margin-bottom: 8px;
+}
+
+
 .advantages-title {
     font-weight: 500;
     font-size: 20px;

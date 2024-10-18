@@ -377,7 +377,12 @@ img {
         width: 360px;
         height: 120px;
 }
-
+.thumb-img {
+position: relative;
+}
+.portfolio-par {
+position: absolute;
+}
 /* ============================footer=======================*/
 .page-footer {
     background-color: #2e2f42;
